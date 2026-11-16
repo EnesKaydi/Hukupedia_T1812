@@ -1,0 +1,134 @@
+{
+  "ozet": {
+    "mesele_sayisi": 12,
+    "obeksiz": {
+      "P@5": 0.517,
+      "P@10": 0.533,
+      "ort_sn": 25.23,
+      "p50_sn": 16.24,
+      "p95_sn": 50.95
+    },
+    "obekli": {
+      "P@5": 0.567,
+      "P@10": 0.575,
+      "ort_sn": 33.3,
+      "p50_sn": 34.87,
+      "p95_sn": 68.41
+    },
+    "iyilesen": [
+      "İş K. m.15",
+      "İş K. m.59"
+    ],
+    "kotulesen": []
+  },
+  "meseleler": [
+    {
+      "mesele": "İş K. m.15",
+      "soru": "işe yeni alınan personelin ilk aylarda çıkarılması",
+      "altin": 38,
+      "obeksiz_P@5": 0.0,
+      "obeksiz_P@10": 0.0,
+      "obekli_P@5": 0.4,
+      "obekli_P@10": 0.6
+    },
+    {
+      "mesele": "emeklilik-kıdem",
+      "soru": "emekli olan çalışanın tazminat hakkı",
+      "altin": 6,
+      "obeksiz_P@5": 0.2,
+      "obeksiz_P@10": 0.1,
+      "obekli_P@5": 0.2,
+      "obekli_P@10": 0.1
+    },
+    {
+      "mesele": "TMK m.132",
+      "soru": "kadının boşandıktan sonra tekrar evlenebilmesi için geçmesi gereken süre",
+      "altin": 1,
+      "obeksiz_P@5": 0.0,
+      "obeksiz_P@10": 0.0,
+      "obekli_P@5": 0.0,
+      "obekli_P@10": 0.0
+    },
+    {
+      "mesele": "TMK m.170",
+      "soru": "eşlerin bir süreliğine ayrı yaşamasına hükmedilmesi",
+      "altin": 6,
+      "obeksiz_P@5": 0.0,
+      "obeksiz_P@10": 0.0,
+      "obekli_P@5": 0.0,
+      "obekli_P@10": 0.0
+    },
+    {
+      "mesele": "İş K. m.25/II-g",
+      "soru": "çalışanın işe gelmemesi sebebiyle sözleşmenin sona erdirilmesi",
+      "altin": 195,
+      "obeksiz_P@5": 0.8,
+      "obeksiz_P@10": 0.9,
+      "obekli_P@5": 0.8,
+      "obekli_P@10": 0.9
+    },
+    {
+      "mesele": "TMK m.182",
+      "soru": "evlilik sona erdiğinde çocuğun kimin yanında kalacağı",
+      "altin": 629,
+      "obeksiz_P@5": 0.0,
+      "obeksiz_P@10": 0.4,
+      "obekli_P@5": 0.0,
+      "obekli_P@10": 0.3
+    },
+    {
+      "mesele": "İş K. m.41",
+      "soru": "çalışanın mesai saatleri dışında çalıştırılması karşılığı",
+      "altin": 1928,
+      "obeksiz_P@5": 1.0,
+      "obeksiz_P@10": 1.0,
+      "obekli_P@5": 1.0,
+      "obekli_P@10": 1.0
+    },
+    {
+      "mesele": "ziynet alacağı",
+      "soru": "gelinin düğünde takılan altınlarının geri istenmesi",
+      "altin": 292,
+      "obeksiz_P@5": 0.8,
+      "obeksiz_P@10": 0.9,
+      "obekli_P@5": 0.8,
+      "obekli_P@10": 0.9
+    },
+    {
+      "mesele": "iş kazası kusur",
+      "soru": "iş yerinde meydana gelen olayda işverenin sorumluluk payı",
+      "altin": 716,
+      "obeksiz_P@5": 0.6,
+      "obeksiz_P@10": 0.5,
+      "obekli_P@5": 0.6,
+      "obekli_P@10": 0.5
+    },
+    {
+      "mesele": "hizmet tespiti",
+      "soru": "sigortalı çalışmanın mahkeme yoluyla ispatlanması",
+      "altin": 287,
+      "obeksiz_P@5": 1.0,
+      "obeksiz_P@10": 0.8,
+      "obekli_P@5": 1.0,
+      "obekli_P@10": 0.7
+    },
+    {
+      "mesele": "İş K. m.59",
+      "soru": "işten ayrılan çalışana ödenmesi gereken kullanılmamış izin bedeli",
+      "altin": 991,
+      "obeksiz_P@5": 0.8,
+      "obeksiz_P@10": 0.9,
+      "obekli_P@5": 1.0,
+      "obekli_P@10": 0.9
+    },
+    {
+      "mesele": "TMK m.174/2",
+      "soru": "eşin sadakatsizliği sebebiyle talep edilen manevi zarar",
+      "altin": 316,
+      "obeksiz_P@5": 1.0,
+      "obeksiz_P@10": 0.9,
+      "obekli_P@5": 1.0,
+      "obekli_P@10": 1.0
+    }
+  ]
+}

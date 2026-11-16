@@ -1,0 +1,23 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: hukupedia-db
+    shm_size: "1gb"          # HNSW paralel indeks inşası için (varsayılan 64mb yetmiyor)
+    environment:
+      POSTGRES_USER: hukupedia
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?.env dosyasında POSTGRES_PASSWORD tanımla (.env.example'a bak)}
+      POSTGRES_DB: hukupedia
+    ports:
+      - "127.0.0.1:5432:5432"   # yalnızca yerel makineden erişilsin
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U hukupedia"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  # api:  → Faz 1 sonunda eklenecek (FastAPI: /ara /sohbet /dilekce)
+  # ui:   → api ile birlikte (web arama + chat ekranı)
+  # ollama: → Faz 2 (lokal LLM — Qwen 7B)

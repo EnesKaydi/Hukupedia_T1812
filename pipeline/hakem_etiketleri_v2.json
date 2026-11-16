@@ -1,0 +1,2402 @@
+[
+ {
+  "soru_idx": 0,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 0,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 0,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 0,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 0,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 1,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 1,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 1,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 1,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 1,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 2,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 2,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 2,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 2,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 2,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 3,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 3,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 3,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 3,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 3,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 4,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 4,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 4,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 4,
+  "sonuc_idx": 3,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 4,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 5,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 5,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 5,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 5,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 5,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 6,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 6,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 6,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 6,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 6,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 7,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 7,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 7,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 7,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 7,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 8,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 8,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 8,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 8,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 8,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 9,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 9,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 9,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 9,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 9,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 10,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 10,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 10,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 10,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 10,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 11,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 11,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 11,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 11,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 11,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 12,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 12,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 12,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 12,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 12,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 13,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 13,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 13,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 13,
+  "sonuc_idx": 3,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 13,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 14,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 14,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 14,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 14,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 14,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 15,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 15,
+  "sonuc_idx": 1,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 15,
+  "sonuc_idx": 2,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 15,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 15,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 16,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 16,
+  "sonuc_idx": 1,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 16,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 16,
+  "sonuc_idx": 3,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 16,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 17,
+  "sonuc_idx": 0,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 17,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 17,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 17,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 17,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 18,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 18,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 18,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 18,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 18,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 19,
+  "sonuc_idx": 0,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 19,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 19,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 19,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 19,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 20,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 20,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 20,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 20,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 20,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 21,
+  "sonuc_idx": 0,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 21,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 21,
+  "sonuc_idx": 2,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 21,
+  "sonuc_idx": 3,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 21,
+  "sonuc_idx": 4,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 22,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 22,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 22,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 22,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 22,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 23,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 23,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 23,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 23,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 23,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 24,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 24,
+  "sonuc_idx": 1,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 24,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 24,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 24,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 25,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 25,
+  "sonuc_idx": 1,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 25,
+  "sonuc_idx": 2,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 25,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 25,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 26,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 26,
+  "sonuc_idx": 1,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 26,
+  "sonuc_idx": 2,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 26,
+  "sonuc_idx": 3,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 26,
+  "sonuc_idx": 4,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 27,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 27,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 27,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 27,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 27,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 28,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 28,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 28,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 28,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 28,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 29,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 29,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 29,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 29,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 29,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 30,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 30,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 30,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 30,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 30,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 31,
+  "sonuc_idx": 0,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 31,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 31,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 31,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 31,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 32,
+  "sonuc_idx": 0,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 32,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 32,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 32,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 32,
+  "sonuc_idx": 4,
+  "etiket": "alakasiz",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 33,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 33,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 33,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 33,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 33,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 34,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 34,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 34,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 34,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 34,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "IS_HUKUKU"
+ },
+ {
+  "soru_idx": 35,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 35,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 35,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 35,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 35,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 36,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 36,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 36,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 36,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 36,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 37,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 37,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 37,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 37,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 37,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 38,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 38,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 38,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 38,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 38,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 39,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 39,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 39,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 39,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 39,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 40,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 40,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 40,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 40,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 40,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 41,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 41,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 41,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 41,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 41,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 42,
+  "sonuc_idx": 0,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 42,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 42,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 42,
+  "sonuc_idx": 3,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 42,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 43,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 43,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 43,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 43,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 43,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 44,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 44,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 44,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 44,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 44,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 45,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 45,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 45,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 45,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 45,
+  "sonuc_idx": 4,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 46,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 46,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 46,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 46,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 46,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 47,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 47,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 47,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 47,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 47,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 48,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 48,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 48,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 48,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 48,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 49,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 49,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 49,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 49,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 49,
+  "sonuc_idx": 4,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 50,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 50,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 50,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 50,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 50,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 51,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 51,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 51,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 51,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 51,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 52,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 52,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 52,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 52,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 52,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 53,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 53,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 53,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 53,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 53,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 54,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 54,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 54,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 54,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 54,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 55,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 55,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 55,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 55,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 55,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 56,
+  "sonuc_idx": 0,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 56,
+  "sonuc_idx": 1,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 56,
+  "sonuc_idx": 2,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 56,
+  "sonuc_idx": 3,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 56,
+  "sonuc_idx": 4,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 57,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 57,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 57,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 57,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 57,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 58,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 58,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 58,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 58,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 58,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 59,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 59,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 59,
+  "sonuc_idx": 2,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 59,
+  "sonuc_idx": 3,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 59,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 60,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 60,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 60,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 60,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 60,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 61,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 61,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 61,
+  "sonuc_idx": 2,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 61,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 61,
+  "sonuc_idx": 4,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 62,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 62,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 62,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 62,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 62,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 63,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 63,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 63,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 63,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 63,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 64,
+  "sonuc_idx": 0,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 64,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 64,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 64,
+  "sonuc_idx": 3,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 64,
+  "sonuc_idx": 4,
+  "etiket": "alakasiz",
+  "konu": "AILE"
+ },
+ {
+  "soru_idx": 65,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 65,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 65,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 65,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 65,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 66,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 66,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 66,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 66,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 66,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 67,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 67,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 67,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 67,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 67,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 68,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 68,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 68,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 68,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 68,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 69,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 69,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 69,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 69,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 69,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 70,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 70,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 70,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 70,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 70,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 71,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 71,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 71,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 71,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 71,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 72,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 72,
+  "sonuc_idx": 1,
+  "etiket": "alakasiz",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 72,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 72,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 72,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 73,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 73,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 73,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 73,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 73,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 74,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 74,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 74,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 74,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 74,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 75,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 75,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 75,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 75,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 75,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 76,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 76,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 76,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 76,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 76,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 77,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 77,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 77,
+  "sonuc_idx": 2,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 77,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 77,
+  "sonuc_idx": 4,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 78,
+  "sonuc_idx": 0,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 78,
+  "sonuc_idx": 1,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 78,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 78,
+  "sonuc_idx": 3,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 78,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 79,
+  "sonuc_idx": 0,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 79,
+  "sonuc_idx": 1,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 79,
+  "sonuc_idx": 2,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 79,
+  "sonuc_idx": 3,
+  "etiket": "kismen",
+  "konu": "SGK_ISKAZASI"
+ },
+ {
+  "soru_idx": 79,
+  "sonuc_idx": 4,
+  "etiket": "tam",
+  "konu": "SGK_ISKAZASI"
+ }
+]

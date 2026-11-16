@@ -1,0 +1,88 @@
+{
+  "ozet": {
+    "rerank_kapali": {
+      "P@5": 0.45,
+      "ort_sn": 5.477
+    },
+    "rerank_acik": {
+      "P@5": 0.583,
+      "ort_sn": 15.012
+    },
+    "kalite_farki_puan": 13.3,
+    "gecikme_bedeli_sn": 9.54
+  },
+  "meseleler": [
+    {
+      "mesele": "İş K. m.15",
+      "altin": 38,
+      "P@5_kapali": 0.0,
+      "P@5_acik": 0.4
+    },
+    {
+      "mesele": "emeklilik-kıdem",
+      "altin": 6,
+      "P@5_kapali": 0.0,
+      "P@5_acik": 0.2
+    },
+    {
+      "mesele": "TMK m.132",
+      "altin": 1,
+      "P@5_kapali": 0.0,
+      "P@5_acik": 0.0
+    },
+    {
+      "mesele": "TMK m.170",
+      "altin": 6,
+      "P@5_kapali": 0.0,
+      "P@5_acik": 0.0
+    },
+    {
+      "mesele": "İş K. m.25/II-g",
+      "altin": 195,
+      "P@5_kapali": 0.8,
+      "P@5_acik": 0.8
+    },
+    {
+      "mesele": "TMK m.182",
+      "altin": 629,
+      "P@5_kapali": 0.2,
+      "P@5_acik": 0.2
+    },
+    {
+      "mesele": "İş K. m.41",
+      "altin": 1928,
+      "P@5_kapali": 1.0,
+      "P@5_acik": 1.0
+    },
+    {
+      "mesele": "ziynet alacağı",
+      "altin": 292,
+      "P@5_kapali": 0.8,
+      "P@5_acik": 0.8
+    },
+    {
+      "mesele": "iş kazası kusur",
+      "altin": 716,
+      "P@5_kapali": 0.2,
+      "P@5_acik": 0.6
+    },
+    {
+      "mesele": "hizmet tespiti",
+      "altin": 287,
+      "P@5_kapali": 1.0,
+      "P@5_acik": 1.0
+    },
+    {
+      "mesele": "İş K. m.59",
+      "altin": 991,
+      "P@5_kapali": 0.8,
+      "P@5_acik": 1.0
+    },
+    {
+      "mesele": "TMK m.174/2",
+      "altin": 316,
+      "P@5_kapali": 0.6,
+      "P@5_acik": 1.0
+    }
+  ]
+}

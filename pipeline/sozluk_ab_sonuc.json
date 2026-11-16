@@ -1,0 +1,158 @@
+{
+  "ozet": {
+    "sozluk_kapali": {
+      "P@5": 0.633,
+      "P@10": 0.667
+    },
+    "sozluk_acik": {
+      "P@5": 0.867,
+      "P@10": 0.833
+    },
+    "iyilesen": [
+      "İş K. m.15",
+      "emeklilik-kıdem",
+      "TMK m.132",
+      "TMK m.170",
+      "İş K. m.25/II-g",
+      "TMK m.182",
+      "ziynet alacağı",
+      "iş kazası kusur"
+    ],
+    "kotulesen": []
+  },
+  "meseleler": [
+    {
+      "mesele": "İş K. m.15",
+      "altin": 238,
+      "kapali_P@5": 0.4,
+      "kapali_P@10": 0.6,
+      "acik_P@5": 1.0,
+      "acik_P@10": 1.0,
+      "eklenen": [
+        "deneme süresi"
+      ]
+    },
+    {
+      "mesele": "emeklilik-kıdem",
+      "altin": 43,
+      "kapali_P@5": 0.4,
+      "kapali_P@10": 0.4,
+      "acik_P@5": 0.6,
+      "acik_P@10": 0.6,
+      "eklenen": [
+        "yaşlılık aylığı",
+        "kıdem tazminatı",
+        "emeklilik nedeniyle fesih"
+      ]
+    },
+    {
+      "mesele": "TMK m.132",
+      "altin": 3,
+      "kapali_P@5": 0.0,
+      "kapali_P@10": 0.0,
+      "acik_P@5": 0.2,
+      "acik_P@10": 0.1,
+      "eklenen": [
+        "iddet müddeti"
+      ]
+    },
+    {
+      "mesele": "TMK m.170",
+      "altin": 41,
+      "kapali_P@5": 0.6,
+      "kapali_P@10": 0.5,
+      "acik_P@5": 0.8,
+      "acik_P@10": 0.8,
+      "eklenen": [
+        "ayrılık kararı",
+        "ayrılığa karar"
+      ]
+    },
+    {
+      "mesele": "İş K. m.25/II-g",
+      "altin": 212,
+      "kapali_P@5": 0.8,
+      "kapali_P@10": 0.9,
+      "acik_P@5": 1.0,
+      "acik_P@10": 1.0,
+      "eklenen": [
+        "devamsızlık"
+      ]
+    },
+    {
+      "mesele": "TMK m.182",
+      "altin": 643,
+      "kapali_P@5": 0.2,
+      "kapali_P@10": 0.3,
+      "acik_P@5": 0.8,
+      "acik_P@10": 0.8,
+      "eklenen": [
+        "velayet"
+      ]
+    },
+    {
+      "mesele": "İş K. m.41",
+      "altin": 1995,
+      "kapali_P@5": 1.0,
+      "kapali_P@10": 1.0,
+      "acik_P@5": 1.0,
+      "acik_P@10": 1.0,
+      "eklenen": []
+    },
+    {
+      "mesele": "ziynet alacağı",
+      "altin": 293,
+      "kapali_P@5": 0.8,
+      "kapali_P@10": 0.9,
+      "acik_P@5": 1.0,
+      "acik_P@10": 1.0,
+      "eklenen": [
+        "ziynet eşyası"
+      ]
+    },
+    {
+      "mesele": "iş kazası kusur",
+      "altin": 815,
+      "kapali_P@5": 0.4,
+      "kapali_P@10": 0.5,
+      "acik_P@5": 1.0,
+      "acik_P@10": 0.9,
+      "eklenen": [
+        "kusur oranı",
+        "işverenin sorumluluğu",
+        "iş sağlığı ve güvenliği önlemleri"
+      ]
+    },
+    {
+      "mesele": "hizmet tespiti",
+      "altin": 502,
+      "kapali_P@5": 1.0,
+      "kapali_P@10": 1.0,
+      "acik_P@5": 1.0,
+      "acik_P@10": 1.0,
+      "eklenen": []
+    },
+    {
+      "mesele": "İş K. m.59",
+      "altin": 1045,
+      "kapali_P@5": 1.0,
+      "kapali_P@10": 0.9,
+      "acik_P@5": 1.0,
+      "acik_P@10": 0.9,
+      "eklenen": []
+    },
+    {
+      "mesele": "TMK m.174/2",
+      "altin": 325,
+      "kapali_P@5": 1.0,
+      "kapali_P@10": 1.0,
+      "acik_P@5": 1.0,
+      "acik_P@10": 0.9,
+      "eklenen": [
+        "zina",
+        "sadakat yükümlülüğü",
+        "manevi tazminat"
+      ]
+    }
+  ]
+}

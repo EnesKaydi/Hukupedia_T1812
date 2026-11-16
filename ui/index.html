@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hukupedia — Emsal Arama</title>
+<style>
+  :root { --ana:#1a3a5c; --vurgu:#2d6cdf; --zemin:#f5f7fa; --kart:#fff; --metin:#1c2733; --soluk:#66788c; }
+  * { box-sizing:border-box; margin:0; }
+  body { font-family:-apple-system,'Segoe UE',sans-serif; background:var(--zemin); color:var(--metin); min-height:100vh; }
+  header { background:var(--ana); color:#fff; padding:20px 24px; }
+  header h1 { font-size:20px; font-weight:600; }
+  header span { opacity:.75; font-size:13px; }
+  .kap { max-width:880px; margin:0 auto; padding:24px 16px; }
+  .arama { display:flex; gap:8px; }
+  .arama input { flex:1; padding:13px 16px; font-size:16px; border:1.5px solid #cdd7e1; border-radius:10px; outline:none; }
+  .arama input:focus { border-color:var(--vurgu); }
+  .arama button { padding:13px 26px; font-size:15px; font-weight:600; color:#fff; background:var(--vurgu); border:0; border-radius:10px; cursor:pointer; }
+  .arama button:disabled { opacity:.5; }
+  .filtreler { display:flex; flex-wrap:wrap; gap:8px; margin:14px 0 4px; align-items:center; }
+  .filtreler label { font-size:13px; color:var(--soluk); }
+  .cip { padding:6px 13px; font-size:13px; border:1.5px solid #cdd7e1; border-radius:20px; background:#fff; cursor:pointer; user-select:none; }
+  .cip.aktif { background:var(--vurgu); color:#fff; border-color:var(--vurgu); }
+  select { padding:7px 10px; font-size:13px; border:1.5px solid #cdd7e1; border-radius:8px; background:#fff; }
+  .durum { margin:16px 0; font-size:14px; color:var(--soluk); }
+  .sonuc { background:var(--kart); border:1px solid #e3e9f0; border-radius:12px; padding:16px 18px; margin-bottom:12px; }
+  .sonuc .ust { display:flex; justify-content:space-between; flex-wrap:wrap; gap:6px; margin-bottom:8px; }
+  .sonuc .daire { font-weight:600; font-size:14.5px; color:var(--ana); }
+  .sonuc .kunye { font-size:12.5px; color:var(--soluk); }
+  .rozet { display:inline-block; padding:2px 9px; font-size:11.5px; font-weight:600; border-radius:10px; margin-left:6px; }
+  .rozet.yargitay { background:#e8f0fe; color:#1a56b8; }
+  .rozet.danistay { background:#e6f6ec; color:#137a3d; }
+  .rozet.aym { background:#fdeee6; color:#b54708; }
+  .rozet.guclu2 { background:#e7f5ec; color:#137a3d; }
+  .rozet.tek { background:#f1f3f6; color:#66788c; }
+  .skor { font-size:12px; color:var(--soluk); }
+  .parca { font-size:14px; line-height:1.55; color:#37485c; max-height:110px; overflow:hidden; position:relative; }
+  .parca.acik { max-height:none; }
+  .ac { margin-top:8px; font-size:13px; color:var(--vurgu); background:none; border:none; cursor:pointer; padding:0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>⚖️ Hukupedia</h1>
+  <span>Yapay zekâ destekli emsal karar arama — Faz 1 demo</span>
+</header>
+<div class="kap">
+  <div class="arama">
+    <input id="soru" placeholder="Hukuki olayı doğal dille yazın… ör: kiracı depozitoyu geri alamıyor" onkeydown="if(event.key==='Enter')ara()">
+    <button id="btn" onclick="ara()">Ara</button>
+  </div>
+  <div class="filtreler">
+    <label>Mahkeme:</label>
+    <span class="cip" data-k="yargitay" onclick="cipSec(this)">Yargıtay</span>
+    <span class="cip" data-k="danistay" onclick="cipSec(this)">Danıştay</span>
+    <span class="cip" data-k="aym" onclick="cipSec(this)">AYM</span>
+    <label style="margin-left:12px">Konu:</label>
+    <select id="konu"><option value="">Hepsi</option></select>
+    <label style="margin-left:12px">Yöntem:</label>
+    <select id="mod">
+      <option value="hibrit">Hibrit (anlam + kelime)</option>
+      <option value="vektor">Sadece anlam</option>
+      <option value="kelime">Sadece kelime</option>
+    </select>
+    <label style="margin-left:12px">Sonuç:</label>
+    <select id="adet">
+      <option value="10">10</option>
+      <option value="20">20</option>
+      <option value="50">50</option>
+      <option value="100">100</option>
+    </select>
+  </div>
+  <div class="durum" id="durum">Veritabanı durumu kontrol ediliyor…</div>
+  <div id="sonuclar"></div>
+</div>
+<script>
+const API = 'http://127.0.0.1:8000';   // önizleme panelinden de çalışsın diye mutlak adres
+const KONU_AD = { AILE:'Aile / boşanma', IS_HUKUKU:'İş hukuku', SGK_ISKAZASI:'SGK / iş kazası',
+  ICRA_IFLAS:'İcra-iflas', KIRA_ALACAK:'Kira / alacak', TUKETICI:'Tüketici',
+  TAZMINAT:'Tazminat / trafik', TAPU_GAYRIMENKUL:'Tapu / gayrimenkul', TICARET:'Ticaret / sigorta',
+  KAMULASTIRMA_KATMULK:'Kamulaştırma / kat mülk.', INSAAT_ESER:'İnşaat / eser',
+  HGK:'Hukuk Genel Kurulu', VERGI:'Vergi', MEMUR_IDARI:'Memur / idari',
+  IMAR_IHALE_DIGER:'İmar / ihale', AYM_BIREYSEL:'AYM bireysel başvuru' };
+async function saglik() {
+  try {
+    const r = await fetch(API + '/saglik'); const d = await r.json();
+    document.getElementById('durum').textContent =
+      `Hazır — ${d.belge.toLocaleString('tr')} karar, ${d.parca.toLocaleString('tr')} indekslenmiş parça`;
+    // konu listesini DB'den canlı doldur (adetleriyle) — olmayan konu seçilemesin
+    const sec = document.getElementById('konu'); const onceki = sec.value;
+    sec.innerHTML = '<option value="">Hepsi</option>' +
+      Object.entries(d.gruplar || {}).map(([g,n]) =>
+        `<option value="${g}">${KONU_AD[g]||g} (${n.toLocaleString('tr')})</option>`).join('');
+    sec.value = onceki;
+  } catch { document.getElementById('durum').textContent = 'API erişilemiyor'; }
+}
+function cipSec(el) { el.classList.toggle('aktif'); }
+function esc(s){const d=document.createElement('div');d.textContent=s||'';return d.innerHTML;}
+async function ara() {
+  const soru = document.getElementById('soru').value.trim();
+  if (!soru) return;
+  const kaynaklar = [...document.querySelectorAll('.cip.aktif')].map(c=>c.dataset.k);
+  const konu = document.getElementById('konu').value;
+  const mod = document.getElementById('mod').value;
+  const adet = parseInt(document.getElementById('adet').value);
+  const btn = document.getElementById('btn');
+  btn.disabled = true; document.getElementById('durum').textContent = 'Aranıyor…';
+  try {
+    const r = await fetch(API + '/ara', { method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ soru, kaynaklar, konu_gruplari: konu?[konu]:[], mod, limit:adet }) });
+    const d = await r.json();
+    const ikili = d.sonuclar.filter(s => (s.eslesme||[]).length === 2).length;
+    document.getElementById('durum').textContent = mod === 'hibrit'
+      ? `${d.sonuclar.length} sonuç — ${ikili} tanesi hem anlam hem kelime ile eşleşti (en güçlü)`
+      : `${d.sonuclar.length} sonuç — ${d.guclu} güçlü, ${d.zayif} zayıf eşleşme`;
+    document.getElementById('sonuclar').innerHTML = d.sonuclar.map(s => `
+      <div class="sonuc" style="${s.zayif ? 'opacity:.55' : ''}">
+        <div class="ust">
+          <div><span class="daire">${esc(s.daire)}</span>
+               <span class="rozet ${esc(s.kaynak)}">${esc(s.kaynak)}</span>
+               ${(s.eslesme||[]).length===2 ? '<span class="rozet guclu2">anlam + kelime</span>' :
+                 (s.eslesme||[]).length===1 ? `<span class="rozet tek">${esc(s.eslesme[0]==='vektor'?'anlam':'kelime')}</span>` : ''}
+               ${s.zayif ? '<span class="rozet tek">zayıf eşleşme</span>' : ''}</div>
+          <div class="kunye">${esc(s.esas_no)} E. ${esc(s.karar_no)} K. · ${esc(s.tarih)}
+               · <span class="skor">benzerlik ${(s.skor*100).toFixed(1)}%</span></div>
+        </div>
+        <div class="parca">${esc(s.parca)}</div>
+        <button class="ac" onclick="this.previousElementSibling.classList.toggle('acik');
+                this.textContent=this.textContent==='Devamını gör'?'Kapat':'Devamını gör'">Devamını gör</button>
+      </div>`).join('') || '<div class="durum">Sonuç bulunamadı</div>';
+  } catch(e) { document.getElementById('durum').textContent = 'Hata: ' + e.message; }
+  btn.disabled = false;
+}
+saglik(); setInterval(saglik, 30000);
+</script>
+</body>
+</html>
